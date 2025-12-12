@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.17"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mssql": "^12.1.0"
+  }
+}
